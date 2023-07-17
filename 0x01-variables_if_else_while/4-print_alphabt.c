@@ -1,17 +1,20 @@
 #include <stdio.h>
-
 /**
  * main -main function
  *
  * return: always 0
  */
+
 int main(void)
 {
-	char i;
+	int c;
 
-	for (i = 'a' ; i <= 'z' ; i++)
-		if (i != 'q' && i != 'e')
-			putchar(i);
-	putchar("\n");
+	c = 0;
+	while
+		(c < 10) {
+			putchar(c + '0');
+			c++;
+		}
+	putchar('\n');
 	return (0);
 }
