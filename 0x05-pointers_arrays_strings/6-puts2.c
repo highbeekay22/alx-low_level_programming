@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * puts2 - fuction should print only one charater out of two
- * Starting with the first one 
+ * Starting with the first one
  * @str: input
  * Return: print
  */
